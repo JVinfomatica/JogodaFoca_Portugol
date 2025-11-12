@@ -1,1 +1,1 @@
-# JogodaFoca_Portugol
+# JogodaForca_Portugol
